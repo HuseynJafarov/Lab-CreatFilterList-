@@ -1,0 +1,14 @@
+C:\Users\huseynnj\Desktop\Lab1\List\List\bin\Debug\netcoreapp3.1\Creat-List.exe
+C:\Users\huseynnj\Desktop\Lab1\List\List\bin\Debug\netcoreapp3.1\Creat-List.deps.json
+C:\Users\huseynnj\Desktop\Lab1\List\List\bin\Debug\netcoreapp3.1\Creat-List.runtimeconfig.json
+C:\Users\huseynnj\Desktop\Lab1\List\List\bin\Debug\netcoreapp3.1\Creat-List.runtimeconfig.dev.json
+C:\Users\huseynnj\Desktop\Lab1\List\List\bin\Debug\netcoreapp3.1\Creat-List.dll
+C:\Users\huseynnj\Desktop\Lab1\List\List\bin\Debug\netcoreapp3.1\Creat-List.pdb
+C:\Users\huseynnj\Desktop\Lab1\List\List\obj\Debug\netcoreapp3.1\Creat-List.csproj.AssemblyReference.cache
+C:\Users\huseynnj\Desktop\Lab1\List\List\obj\Debug\netcoreapp3.1\Creat-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseynnj\Desktop\Lab1\List\List\obj\Debug\netcoreapp3.1\Creat-List.AssemblyInfoInputs.cache
+C:\Users\huseynnj\Desktop\Lab1\List\List\obj\Debug\netcoreapp3.1\Creat-List.AssemblyInfo.cs
+C:\Users\huseynnj\Desktop\Lab1\List\List\obj\Debug\netcoreapp3.1\Creat-List.csproj.CoreCompileInputs.cache
+C:\Users\huseynnj\Desktop\Lab1\List\List\obj\Debug\netcoreapp3.1\Creat-List.dll
+C:\Users\huseynnj\Desktop\Lab1\List\List\obj\Debug\netcoreapp3.1\Creat-List.pdb
+C:\Users\huseynnj\Desktop\Lab1\List\List\obj\Debug\netcoreapp3.1\Creat-List.genruntimeconfig.cache
